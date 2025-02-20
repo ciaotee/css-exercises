@@ -3,6 +3,11 @@
   font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
+.me {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 /* The first element**: a black background and white text
 The second element**: a yellow background
 Both elements**: a font size of 28px and a list of fonts 
