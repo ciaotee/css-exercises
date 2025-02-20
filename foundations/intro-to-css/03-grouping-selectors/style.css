@@ -8,6 +8,9 @@
   color: #ffffff;
 }
 
+.no-me {
+  background-color: #ffff00;
+}
 /* The first element**: a black background and white text
 The second element**: a yellow background
 Both elements**: a font size of 28px and a list of fonts 
